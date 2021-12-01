@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-mui-tailwind/static/css/main.fb6aaee0.chunk.css",
+    "main.js": "/react-mui-tailwind/static/js/main.605f3a61.chunk.js",
+    "main.js.map": "/react-mui-tailwind/static/js/main.605f3a61.chunk.js.map",
+    "runtime-main.js": "/react-mui-tailwind/static/js/runtime-main.06c59b1d.js",
+    "runtime-main.js.map": "/react-mui-tailwind/static/js/runtime-main.06c59b1d.js.map",
+    "static/js/2.c2097200.chunk.js": "/react-mui-tailwind/static/js/2.c2097200.chunk.js",
+    "static/js/2.c2097200.chunk.js.map": "/react-mui-tailwind/static/js/2.c2097200.chunk.js.map",
+    "index.html": "/react-mui-tailwind/index.html",
+    "static/css/main.fb6aaee0.chunk.css.map": "/react-mui-tailwind/static/css/main.fb6aaee0.chunk.css.map",
+    "static/js/2.c2097200.chunk.js.LICENSE.txt": "/react-mui-tailwind/static/js/2.c2097200.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06c59b1d.js",
+    "static/js/2.c2097200.chunk.js",
+    "static/css/main.fb6aaee0.chunk.css",
+    "static/js/main.605f3a61.chunk.js"
+  ]
+}
